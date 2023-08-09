@@ -5,7 +5,7 @@ ublue_variants:
       - label: bazzite
         info: Bazzite
   - label: ublue-os/bazzite-nvidia
-    ks: /kickstart/ublue-os-nvidia.ks
+    ks: /kickstart/bazzite-nvidia.ks
     flavors:
       - label: bazzite-nvidia
         info: Bazzite (For Nvidia GPUs)
